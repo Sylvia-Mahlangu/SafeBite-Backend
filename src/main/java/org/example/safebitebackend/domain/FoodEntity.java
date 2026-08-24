@@ -20,6 +20,7 @@ public class FoodEntity {
     private String brand;
     private String ingredients;
     private String nutritionGrade;
+    private String expiryDate;
 
     public FoodEntity() {
 
